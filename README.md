@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Coding on ReactJS and dreaming on ReactJS.
+- 🤔 &nbsp; Coding on Core Java, ReactJS, Php and more.
 - 🎓 &nbsp; Managed and educated team of 10 Software Engineers.
 - 💼 &nbsp; Help companies to build complex web applications serving 1,000,000+ users with React and modern Technologies
 - 🌱 &nbsp; Exploring new technologies and developing software solutions and quick hacks..
